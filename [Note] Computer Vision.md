@@ -9,6 +9,8 @@ Computer vision 은 인공지능 (Artificial Intelligence) 의 한 분야로서,
 - 어떤 장면을 3차원 모델로 mapping ; 그 모델은 영상화된 장면을 돌아다니는 로봇에 의해 사용된다
 - 인간의 자세와 팔다리 움직임을 3차원으로 추정 (estimation)
 - 콘텐츠에 따라 디지탈영상을 탐색 (content-based image retrieval)  
+
+
 이러한 목표들은 패턴인식 (Pattern Recognition), statistical learning, projective geometry, image processing, 그래프 이론 (Graph Theory) 등등에 의해 성취될수 있다.   
 Cognitive computer vision 은 인지 심리학 (Cognitive Psychology), biological computation 과 밀접하게 관련되어있다.
   
