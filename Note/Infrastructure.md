@@ -1,4 +1,4 @@
-<h2>Infrastructure for Programming</h2>
+<h1>Infrastructure for Programming</h1>
 <p>&nbsp;</p>
 <ol start='0' >
 <li>IT 인프라란 애플리케이션을 가동시키기 위해 필요한 <strong>하드웨어, OS, 미들웨어, 네트워크</strong> 등 시스템의 기반을 말한다.</li>
